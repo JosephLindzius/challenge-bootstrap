@@ -10070,4 +10070,14 @@ hr {
   width: 50%;
 }
 
+.circleA {
+  width: 100px;
+  height: 100px;
+}
+
+.DEI {
+  height: 500px;
+ object-fit: cover;
+}
+
 /*# sourceMappingURL=bootstrap.css.map */
