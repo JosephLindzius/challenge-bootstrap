@@ -4434,3 +4434,9 @@
 
 }));
 //# sourceMappingURL=bootstrap.js.map
+fetch('http://localhost:8000/data')
+    .then(response => response.json())
+    .then(output => {
+      const { output } = output;
+      // use the output in your project
+    })

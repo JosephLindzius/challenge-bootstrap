@@ -10052,18 +10052,22 @@ a.text-dark:hover, a.text-dark:focus {
 }
 
 .buttonbutt {
-  border-radius: 25%;
+  border-radius: 10px;
   background-color: white;
 }
 
 .buttonbutt:hover {
   transform: scale(1.1);
-  border-radius: 25%;
+  border-radius: 10px;
   background-color: blue;
   text-weight: bold;
   -webkit-box-shadow: 0px 24px 47px -14px rgba(0,0,0,0.75);
   -moz-box-shadow: 0px 24px 47px -14px rgba(0,0,0,0.75);
   box-shadow: 0px 24px 47px -14px rgba(0,0,0,0.75);
+}
+
+hr {
+  width: 50%;
 }
 
 /*# sourceMappingURL=bootstrap.css.map */
