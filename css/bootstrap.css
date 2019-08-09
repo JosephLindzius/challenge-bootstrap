@@ -10080,4 +10080,12 @@ hr {
  object-fit: cover;
 }
 
+.align-middle {
+  display: table-cell;
+  vertical-align: middle;
+}
+#content div.row {
+  display: table;
+}
+
 /*# sourceMappingURL=bootstrap.css.map */
